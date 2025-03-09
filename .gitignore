@@ -1,0 +1,1 @@
+"bin/\n*.class\n*.log\n.gradle/\n*.jar\n*.war\n*.ear\n*.iml" 
